@@ -1,7 +1,9 @@
 import "./App.css";
 
+import { Test } from "components/Test"
+
 const App = () => {
-  return <p>Hello world</p>;
+  return <Test></Test>
 };
 
 export { App };
