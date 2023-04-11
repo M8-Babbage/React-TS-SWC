@@ -19,6 +19,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
+    // Esta configuración es para que tome los alias
     "types": [
       "node"
     ],
