@@ -49,6 +49,9 @@
       "views/*": [
         "src/views/*"
       ],
+      "routes/*": [
+        "src/routes/*"
+      ],
     }
   },
   "include": [
