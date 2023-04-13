@@ -6,6 +6,8 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+  // Github Actions, nombre del repositorio en GitHub
+  base: '/React-TS-SWC',
   // Añadir alias en el proyecto
   resolve: {
     alias: {
